@@ -131,3 +131,264 @@
 [01-Mar-2024 21:11:09 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->send_file(): Image key must be XZG8vGaRsHS9n0A, instead got 
 [01-Mar-2024 21:11:09 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Upload_Optimization->optimize_image_on_upload(): Optimization error. Reason: Service response is incorrect
 [01-Mar-2024 21:56:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-admin/includes/ajax-actions.php on line 4659
+[26-Mar-2024 18:31:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 935
+[26-Mar-2024 18:31:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 935
+[26-Mar-2024 18:46:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 946
+[26-Mar-2024 18:46:12 UTC] PHP Warning:  Undefined property: WP_Error::$imageKey in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/image-optimization/modules/optimization/classes/optimize-image.php on line 205
+[26-Mar-2024 18:46:12 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->send_file(): Image key must be 80Lp8dAhW87VFew, instead got 
+[26-Mar-2024 18:46:12 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Upload_Optimization->optimize_image_on_upload(): Optimization error. Reason: Service response is incorrect
+[26-Mar-2024 18:50:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 959
+[26-Mar-2024 18:50:28 UTC] PHP Warning:  Undefined property: WP_Error::$imageKey in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/image-optimization/modules/optimization/classes/optimize-image.php on line 205
+[26-Mar-2024 18:50:28 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->send_file(): Image key must be Y6n4XJhRsVZnDau, instead got 
+[26-Mar-2024 18:50:28 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Upload_Optimization->optimize_image_on_upload(): Optimization error. Reason: Service response is incorrect
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Undefined array key "id" in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Undefined array key "id" in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:31:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[28-Mar-2024 15:32:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1039
+[28-Mar-2024 15:32:38 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1039
+[28-Mar-2024 15:33:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1040
+[28-Mar-2024 15:53:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1051
+[28-Mar-2024 15:53:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1051
+[28-Mar-2024 15:55:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1055
+[28-Mar-2024 15:55:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1055
+[28-Mar-2024 21:14:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1275
+[28-Mar-2024 21:14:44 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1275
+[28-Mar-2024 21:21:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1283
+[28-Mar-2024 21:21:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1283
+[28-Mar-2024 21:24:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1284
+[28-Mar-2024 21:24:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1284
+[01-Apr-2024 20:53:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1311
+[02-Apr-2024 19:25:34 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:25:59 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:26:02 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:26:03 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:26:10 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:26:11 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:26:14 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:26:15 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:26:28 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:27:23 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "isFrame" on null in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php:82
+Stack trace:
+#0 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php(33): Nextend\SmartSlider3\SliderManager\SliderManager->setUsage('iframe')
+#1 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#2 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#3 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#4 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#5 /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(31): Nextend\Framework\Application\AbstractApplicationType->process('PreRenderslider', 'iframe')
+#6 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(324): Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend->preRender('')
+#7 /Users/user/Local Sites/ctrltech/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /Users/user/Local Sites/ctrltech/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /Users/user/Local Sites/ctrltech/app/public/wp-settings.php(643): do_action('init')
+#10 /Users/user/Local Sites/ctrltech/app/public/wp-config.php(103): require_once('/Users/user/Loc...')
+#11 /Users/user/Local Sites/ctrltech/app/public/wp-load.php(50): require_once('/Users/user/Loc...')
+#12 /Users/user/Local Sites/ctrltech/app/public/wp-blog-header.php(13): require_once('/Users/user/Loc...')
+#13 /Users/user/Local Sites/ctrltech/app/public/index.php(17): require('/Users/user/Loc...')
+#14 {main}
+  thrown in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/SliderManager/SliderManager.php on line 82
+[02-Apr-2024 19:38:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1345
+[02-Apr-2024 19:38:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1346
+[02-Apr-2024 22:25:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1365
+[02-Apr-2024 22:40:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1377
+[02-Apr-2024 23:39:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1417
+[04-Apr-2024 19:57:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1450
+[04-Apr-2024 19:59:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1452
+[04-Apr-2024 20:15:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1460
+[04-Apr-2024 20:31:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1503
+[04-Apr-2024 20:49:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1509
+[04-Apr-2024 20:54:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1512
+[05-Apr-2024 15:48:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1521
+[05-Apr-2024 16:03:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1527
+[05-Apr-2024 16:04:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1528
+[05-Apr-2024 16:23:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1534
+[05-Apr-2024 17:08:57 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: cURL error 28: SSL connection timeout
+[05-Apr-2024 17:16:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1560
+[05-Apr-2024 17:17:45 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: cURL error 28: Operation timed out after 100001 milliseconds with 122 bytes received
+[05-Apr-2024 17:23:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1568
+[05-Apr-2024 17:23:33 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Upload_Optimization->optimize_image_on_upload(): Optimization error. Reason: cURL error 28: SSL connection timeout
+[05-Apr-2024 17:31:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1575
+[05-Apr-2024 17:35:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1578
+[05-Apr-2024 17:47:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1584
+[05-Apr-2024 17:47:41 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Upload_Optimization->optimize_image_on_upload(): Optimization error. Reason: cURL error 28: Failed to connect to my.elementor.com port 443 after 10002 ms: Timeout was reached
+[05-Apr-2024 17:54:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1587
+[05-Apr-2024 18:03:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1589
+[05-Apr-2024 18:18:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1597
+[05-Apr-2024 18:27:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1599
+[08-Apr-2024 16:24:58 UTC] PHP Warning:  Undefined array key "condition_type" in /Users/user/Local Sites/ctrltech/app/public/wp-content/plugins/pro-elements/core/app/modules/site-editor/data/endpoints/templates.php on line 150
+[08-Apr-2024 16:44:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1615
+[08-Apr-2024 17:27:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1642
+[08-Apr-2024 17:33:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1670
+[08-Apr-2024 21:29:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1738
+[08-Apr-2024 21:30:05 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Upload_Optimization->optimize_image_on_upload(): Optimization error. Reason: cURL error 56: Recv failure: Connection reset by peer
+[08-Apr-2024 22:42:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1764
+[08-Apr-2024 22:56:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1784
+[08-Apr-2024 23:09:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1789
+[09-Apr-2024 18:41:13 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1810
+[09-Apr-2024 18:42:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1820
+[09-Apr-2024 18:51:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1839
+[09-Apr-2024 18:55:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1848
+[09-Apr-2024 19:37:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1892
+[09-Apr-2024 19:39:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1897
+[09-Apr-2024 19:42:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1905
+[09-Apr-2024 19:45:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1921
+[09-Apr-2024 19:47:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1928
+[09-Apr-2024 20:39:31 UTC] PHP Warning:  Ocorreu um erro inesperado. Algo pode estar errado com o WordPress.org ou com a configuração deste servidor. Se os problemas persistirem, busque ajuda no <a href="https://br.wordpress.org/support/forums/">fórum de suporte</a>. (O WordPress não conseguiu estabelecer uma conexão segura com o WordPress.org. Contate o administrador do servidor.) in /Users/user/Local Sites/ctrltech/app/public/wp-includes/update.php on line 211
