@@ -392,3 +392,5 @@ Stack trace:
 [09-Apr-2024 19:45:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1921
 [09-Apr-2024 19:47:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1928
 [09-Apr-2024 20:39:31 UTC] PHP Warning:  Ocorreu um erro inesperado. Algo pode estar errado com o WordPress.org ou com a configuração deste servidor. Se os problemas persistirem, busque ajuda no <a href="https://br.wordpress.org/support/forums/">fórum de suporte</a>. (O WordPress não conseguiu estabelecer uma conexão segura com o WordPress.org. Contate o administrador do servidor.) in /Users/user/Local Sites/ctrltech/app/public/wp-includes/update.php on line 211
+[09-Apr-2024 23:30:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1943
+[09-Apr-2024 23:47:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1969
